@@ -18,7 +18,7 @@ else:
 
 average = (sub1 + sub2 + sub3) / 3;
 
-
+print("")
 
 print(f"Student Name: {name}")
 print(f"Average Marks: {average:.2f}")
